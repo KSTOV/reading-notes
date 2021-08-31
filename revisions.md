@@ -1,6 +1,6 @@
 # Revisions and the cloud
 
-[Back <--](README.md)
+## [Table of Contents](README.md)
 
 - Version control allows you to revisit different versions of a file by saving the changes and makes it easy to revert back to previous versions.
 - Local Version Control: database on your hard disk that stores changes to files

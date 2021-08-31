@@ -1,6 +1,6 @@
 # Learning Markdown
 
-[Back <--](README.md)
+## [Table of Contents](README.md)
 
 Markdown is a way of writing text on a webpage
 

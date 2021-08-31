@@ -1,6 +1,6 @@
 # Coder's Computer
 
-[Back <--](README.md)
+## [Table of Contents](README.md)
 
 
 ## Choosing a Text Editor
