@@ -4,6 +4,7 @@ Hi myname is K'Lan Stovall this is my reading notes repo
 
 - [GitHub Profile](https://github.com/KSTOV)
 
+##Table of Contents
 
 - [Markdown](markdown.md)
 - [Coder's Computer](coders-computer.md)
