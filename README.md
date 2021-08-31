@@ -3,8 +3,8 @@
 - [GitHub Profile](https://github.com/KSTOV)
 
 
-- [Markdown](https://kstov.github.io/reading-notes/markdown)
-- [Coder's Computer](https://kstov.github.io/reading-notes/coders-computer)
+- [Markdown](markdown.md)
+- [Coder's Computer](coders-computer.md)
 
 # Growth Mindset
 
