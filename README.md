@@ -1,5 +1,7 @@
 # Reading Notes Repo
 
+Hi myname is K'Lan Stovall this is my reading notes repo
+
 - [GitHub Profile](https://github.com/KSTOV)
 
 
