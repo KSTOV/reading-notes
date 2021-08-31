@@ -33,11 +33,16 @@
 
 2 types of paths **Absolute** and **Relative**
 Absolute paths begin with "/" and show location in root directory
-'
-  /home/username
-'
+- ex: /home/username/files
 
 Relative paths show where we currently are and no "/" in the beginning
-'
-  ls files
-'
+- ex: ls files
+
+- ~ = shortcut to home directory
+- . = current directory
+- .. = parent directory
+
+## About Files
+
+- file = type of file or directory
+- ls -a = list with hidden files
