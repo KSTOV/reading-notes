@@ -41,28 +41,28 @@
 
 ## Anantomy of HTML
 
-- <!DOCTYPE html> is required at the beginning
+- < !DOCTYPE html> is required at the beginning
 
-- <html></html> wraps all the content for the whole page
+- < html></html> wraps all the content for the whole page
 
-- <head></head> container for stuff that isn't content
+- < head></head> container for stuff that isn't content
 
-- <meta charset="utf-8"> includes most characters from majority of written languages
+- < meta charset="utf-8"> includes most characters from majority of written languages
 
-- <title></title> title of the page
+- < title></title> title of the page
 
-- <body></body> contains all the content you want to show
+- < body></body> contains all the content you want to show
 
-- <img src="image link"> images
+- < img src="image link"> images
 
-- <h1></h1> headers h1 is the main all the way to h6
+- < h1></h1> headers h1 is the main all the way to h6
 
-- <p></p> paragraph
+- < p></p> paragraph
 
-- <ul></ul> Unordered list
+- < ul></ul> Unordered list
 
-- <ol></ol> Ordered list
+- < ol></ol> Ordered list
 
-- <li></li> for each item of the list
+- < li></li> for each item of the list
 
-- <a></a> links
+- < a></a> links
