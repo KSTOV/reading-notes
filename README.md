@@ -1,6 +1,6 @@
-# Reading Notes Repo
+# Reading Notes
 
-Hi myname is K'Lan Stovall this is my reading notes repo
+Hi my name is K'Lan Stovall these are my notes
 
 - [GitHub Profile](https://github.com/KSTOV)
 
