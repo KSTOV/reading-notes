@@ -1,8 +1,8 @@
 # Hello my name is K'Lan Stovall this is my reading notes repo
 
-[GitHub](https://github.com/KSTOV)
-[Markdown](https://kstov.github.io/reading-notes/markdown)
-[Coder's Computer](https://kstov.github.io/reading-notes/coders-computer)
+- [GitHub](https://github.com/KSTOV)
+- [Markdown](https://kstov.github.io/reading-notes/markdown)
+- [Coder's Computer](https://kstov.github.io/reading-notes/coders-computer)
 
 # Growth Mindset
 
