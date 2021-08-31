@@ -5,6 +5,7 @@
 
 - [Markdown](markdown.md)
 - [Coder's Computer](coders-computer.md)
+- [Revisions](revisions.md)
 
 # Growth Mindset
 
