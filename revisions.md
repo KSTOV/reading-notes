@@ -10,7 +10,7 @@
 
 ## Commands
 
-- git clone repo URL/SSH
+- git clone repoURL/SSH
 - git status = state of files
 - git add filename 
   git add * = all files
