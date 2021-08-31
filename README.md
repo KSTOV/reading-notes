@@ -1,6 +1,8 @@
-# Hello my name is K'Lan Stovall this is my reading notes repo
+# Reading Notes Repo
 
-- [GitHub](https://github.com/KSTOV)
+- [GitHub Profile](https://github.com/KSTOV)
+
+
 - [Markdown](https://kstov.github.io/reading-notes/markdown)
 - [Coder's Computer](https://kstov.github.io/reading-notes/coders-computer)
 
