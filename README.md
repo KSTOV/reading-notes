@@ -11,6 +11,7 @@ Hi my name is K'Lan Stovall these are my notes
 - [Revisions](revisions.md)
 - [HTML](HTML.md)
 - [CSS](CSS.md)
+- [Javascript](javascript.md)
 
 # Growth Mindset
 
