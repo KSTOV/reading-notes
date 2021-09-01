@@ -10,6 +10,7 @@ Hi my name is K'Lan Stovall these are my notes
 - [Coder's Computer](coders-computer.md)
 - [Revisions](revisions.md)
 - [HTML](HTML.md)
+- [CSS](CSS.md)
 
 # Growth Mindset
 
