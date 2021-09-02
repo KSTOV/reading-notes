@@ -12,6 +12,7 @@ Hi my name is K'Lan Stovall these are my notes
 - [HTML](HTML.md)
 - [CSS](CSS.md)
 - [Javascript](javascript.md)
+- [Programming with Javascript](programming.md)
 
 # Growth Mindset
 
@@ -22,4 +23,3 @@ Hi my name is K'Lan Stovall these are my notes
 - **Stay Focused**
 - *Embrace Challenges*
 - ***Learn from criticism***
-
