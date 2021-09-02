@@ -13,6 +13,7 @@ Hi my name is K'Lan Stovall these are my notes
 - [CSS](CSS.md)
 - [Javascript](javascript.md)
 - [Programming with Javascript](programming.md)
+- [Operators and Loops](loops.md)
 
 # Growth Mindset
 
