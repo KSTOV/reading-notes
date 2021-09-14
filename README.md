@@ -4,7 +4,12 @@ Hi my name is K'Lan Stovall these are my notes
 
 - [GitHub Profile](https://github.com/KSTOV)
 
-## Table of Contents
+## Code 201 Reading Notes
+
+- [Introductory HTML and Javascript](introHtml_JS.md)
+- [HTML, CSS, Basic Javascript](HTML_CSS_JS.md)
+
+## Code 102 Reading Notes
 
 - [Markdown](markdown.md)
 - [Coder's Computer](coders-computer.md)
