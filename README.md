@@ -9,6 +9,7 @@ Hi my name is K'Lan Stovall these are my notes
 - [Introductory HTML and Javascript](introHtml_JS.md)
 - [HTML, CSS, Basic Javascript](HTML_CSS_JS.md)
 - [HTML Lists, Control Flow with JS, CSS Box Model](201_Read03.md)
+- [HTML Links, JS Functions, and Intro to CSS Layout](201_Read04.md)
 
 ## Code 102 Reading Notes
 
