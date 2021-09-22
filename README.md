@@ -13,6 +13,7 @@ Hi my name is K'Lan Stovall these are my notes
 - [HTML Images; CSS Color & Text](201_Read05.md)
 - [JS Object Literals; The DOM](201_Read06.md)
 - [HTML Tables; JS Constructor Functions](201_Read07.md)
+- [CSS Layout](201_Read08.md)
 
 ## Code 102 Reading Notes
 
