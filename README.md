@@ -16,6 +16,7 @@ Hi my name is K'Lan Stovall these are my notes
 - [CSS Layout](201_Read08.md)
 - [Forms and JS Events](201_Read09.md)
 - [JS Debugging](201_Read10.md)
+- [Audio, Video, Images](201_Read11.md)
 
 ## Code 102 Reading Notes
 
