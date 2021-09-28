@@ -17,6 +17,7 @@ Hi my name is K'Lan Stovall these are my notes
 - [Forms and JS Events](201_Read09.md)
 - [JS Debugging](201_Read10.md)
 - [Audio, Video, Images](201_Read11.md)
+- [Chart.js, Canvas](201_Read12.md)
 
 ## Code 102 Reading Notes
 
