@@ -18,6 +18,7 @@ Hi my name is K'Lan Stovall these are my notes
 - [JS Debugging](201_Read10.md)
 - [Audio, Video, Images](201_Read11.md)
 - [Chart.js, Canvas](201_Read12.md)
+- [Local Storage](201_Read13.md)
 
 ## Code 102 Reading Notes
 
