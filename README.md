@@ -19,6 +19,8 @@ Hi my name is K'Lan Stovall these are my notes
 - [Audio, Video, Images](201_Read11.md)
 - [Chart.js, Canvas](201_Read12.md)
 - [Local Storage](201_Read13.md)
+- [CSS Transforms, Transitions, and Animations](201_Read14a.md)
+- [What Google Learned About Teams](201_Read14b.md)
 
 ## Code 102 Reading Notes
 
