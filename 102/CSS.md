@@ -1,7 +1,5 @@
 # Design web pages with CSS
 
-## [Table of Contents](README.md)
-
 ## What is CSS
 
 - Stands for Cascading Style Sheets

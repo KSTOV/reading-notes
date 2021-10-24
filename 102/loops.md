@@ -1,7 +1,5 @@
 # Operators and Loops
 
-## [Table of Contents](README.md)
-
 ## Expressions and Operators
 
 - Javascript has the following operators

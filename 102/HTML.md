@@ -1,7 +1,5 @@
 # Structure web pages with HTML
 
-## [Table of Contents](README.md)
-
 ## Wireframe and Design
 
 - Wireframe is a practice used by UX Designers to plan their design for a website or app.

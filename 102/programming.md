@@ -1,7 +1,5 @@
 # Programming with Javascript
 
-## [Table of Contents](README.md)
-
 ## Expressions and Operators
 
 - Javascript has the following operators

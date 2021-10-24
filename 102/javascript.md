@@ -1,7 +1,5 @@
 # Dynamic web pages with JavaScript
 
-## [Table of Contents](README.md)
-
 ## Javascript
 
 - Is a lightweight and interpreted compiled programming language

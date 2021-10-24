@@ -1,8 +1,5 @@
 # Coder's Computer
 
-## [Table of Contents](README.md)
-
-
 ## Choosing a Text Editor
 
 - The different classifications are Text Editors and IDEs

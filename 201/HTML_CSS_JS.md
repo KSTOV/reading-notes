@@ -1,7 +1,5 @@
 # Basics of HTML, CSS, and JS
 
-## [Table of Contents](README.md)
-
 ## Text
 
 - HTML elements are used to describe the struture of the page

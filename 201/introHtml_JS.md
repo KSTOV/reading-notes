@@ -1,7 +1,5 @@
 # Introductory HTML and JavaScript
 
-## [Table of Contents](README.md)
-
 ## HTML Structure
 
 - HTML pages are text documents

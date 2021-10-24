@@ -1,7 +1,5 @@
 # Learning Markdown
 
-## [Table of Contents](README.md)
-
 Markdown is a way of writing text on a webpage
 
 - Adding a **"#"** before text creates a header and if you add more **"##"** makes a smaller header
