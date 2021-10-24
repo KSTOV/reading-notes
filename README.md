@@ -4,34 +4,11 @@ Hi my name is K'Lan Stovall these are my notes
 
 - [GitHub Profile](https://github.com/KSTOV)
 
-## Code 201 Reading Notes
+- [## Code 102 - Intro to Software Development](102/102_ReadingNotes.md)
 
-- [Introductory HTML and Javascript](introHtml_JS.md)
-- [HTML, CSS, Basic Javascript](HTML_CSS_JS.md)
-- [HTML Lists, Control Flow with JS, CSS Box Model](201_Read03.md)
-- [HTML Links, JS Functions, and Intro to CSS Layout](201_Read04.md)
-- [HTML Images; CSS Color & Text](201_Read05.md)
-- [JS Object Literals; The DOM](201_Read06.md)
-- [HTML Tables; JS Constructor Functions](201_Read07.md)
-- [CSS Layout](201_Read08.md)
-- [Forms and JS Events](201_Read09.md)
-- [JS Debugging](201_Read10.md)
-- [Audio, Video, Images](201_Read11.md)
-- [Chart.js, Canvas](201_Read12.md)
-- [Local Storage](201_Read13.md)
-- [CSS Transforms, Transitions, and Animations](201_Read14a.md)
-- [What Google Learned About Teams](201_Read14b.md)
+- [## Code 201 - Foundations of Software Development](201/201_ReadingNotes.md)
 
-## Code 102 Reading Notes
-
-- [Markdown](markdown.md)
-- [Coder's Computer](coders-computer.md)
-- [Revisions](revisions.md)
-- [HTML](HTML.md)
-- [CSS](CSS.md)
-- [Javascript](javascript.md)
-- [Programming with Javascript](programming.md)
-- [Operators and Loops](loops.md)
+- [## Code 301 - Intermediate Software Development](301/301_ReadingNotes.md)
 
 # Growth Mindset
 
