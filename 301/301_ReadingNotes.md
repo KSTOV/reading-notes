@@ -8,3 +8,5 @@
 - [Node.js](301_Read06.md)
 - [REST](301_Read07.md)
 - [APIs](301_Read08.md)
+- [Functional Programming](301_Read09.md)
+- [In memory storage](301_Read10.md)
