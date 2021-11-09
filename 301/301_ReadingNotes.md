@@ -11,3 +11,4 @@
 - [Functional Programming](301_Read09.md)
 - [In memory storage](301_Read10.md)
 - [Mongo and Mongoose](301_Read11.md)
+- [CRUD](301_Read12.md)
