@@ -10,12 +10,6 @@ Hi my name is K'Lan Stovall these are my notes
 
 - ## [Code 301 - Intermediate Software Development](301/301_ReadingNotes.md)
 
-# Growth Mindset
+- ## [Code 401 - Advanced Software Development in Python](401/401_ReadingNotes.md)
 
-### Growth Mindset means to be open to challenges and criticism and learn from them and also want to learn more.
-
-#### 3 Reminders
-
-- **Stay Focused**
-- *Embrace Challenges*
-- ***Learn from criticism***
+- ## [Growth Mindset](GrowthMindset.md)
