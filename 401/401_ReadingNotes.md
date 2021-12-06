@@ -4,3 +4,4 @@
 - [Testing and Modules](401_Read02.md)
 - [FileIO & Exceptions](401_Read03.md)
 - [Classes & Objects / Thinking Recursively](401_Read04.md)
+- [Game of Greed 1](401_Read06.md)
