@@ -8,3 +8,4 @@
 - [Game of Greed 2](401_Read07.md)
 - [Game of Greed 3](401_Read08.md)
 - [Data Analysis](401_Read11.md)
+- [Pandas in 10](401_Read12.md)
