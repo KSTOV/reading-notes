@@ -9,3 +9,4 @@
 - [Game of Greed 3](401_Read08.md)
 - [Data Analysis](401_Read11.md)
 - [Pandas in 10](401_Read12.md)
+- [Linear Regressions](401_Read13.md)
